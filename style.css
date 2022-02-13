@@ -132,12 +132,12 @@ h1, h2{
     cursor: pointer;
     margin-right: 10px;
 }
-#tabbed-content .tab{
+#tabbed-content .panels{
     display: none;
     border: 1px solid #ddd;
     padding: 0 10px;
     border-radius: 4px;
 }
-#tabbed-content .tab.active{
+#tabbed-content .panels.active{
     display: block;
 }
